@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -45,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0520-detect-capital) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
