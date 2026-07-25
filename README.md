@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [3536-maximum-product-of-two-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
