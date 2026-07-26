@@ -45,9 +45,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0520-detect-capital) |
 ## Dynamic Programming
 |  |
