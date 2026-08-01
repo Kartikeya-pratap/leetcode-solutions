@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
