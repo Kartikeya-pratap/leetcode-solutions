@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0877-stone-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
