@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -137,4 +141,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
