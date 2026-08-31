@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3668-restore-finishing-order](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3668-restore-finishing-order](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
