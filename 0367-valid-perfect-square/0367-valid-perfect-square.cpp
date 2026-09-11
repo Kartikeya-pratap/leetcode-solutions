@@ -4,7 +4,7 @@ public:
         if(num == 0 || num == 1) return true;
         int left = 2;
         int right = num/2;
-        int mid;
+        int mid = 0;
         while(left<=right){
             mid = left +(right - left)/2;
             if(mid > num/mid) {
