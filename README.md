@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2413-smallest-even-multiple](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2544-alternating-digit-sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
