@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2544-alternating-digit-sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [2579-count-total-number-of-colored-cells](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [2652-sum-multiples](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
