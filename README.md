@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1952-three-divisors](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Minimax
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Sliding Window
 |  |
@@ -262,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
