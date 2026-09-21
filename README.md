@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
