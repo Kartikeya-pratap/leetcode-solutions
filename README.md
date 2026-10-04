@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2396-strictly-palindromic-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
