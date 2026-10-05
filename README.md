@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1844-replace-all-digits-with-characters](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -318,8 +319,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
