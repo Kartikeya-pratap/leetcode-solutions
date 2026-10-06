@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
