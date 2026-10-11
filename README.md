@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1844-replace-all-digits-with-characters](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
