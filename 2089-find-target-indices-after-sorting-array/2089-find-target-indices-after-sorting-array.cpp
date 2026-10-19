@@ -7,6 +7,9 @@ public:
             if(nums[i]==target){
                 a.push_back(i);
             }
+            else if(nums[i]>target){ 
+                break;
+            }
         }
         return a;
     }
