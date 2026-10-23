@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
@@ -240,12 +242,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Quicksort
 |  |
@@ -361,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0069-sqrtx) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
