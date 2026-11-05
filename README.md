@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
