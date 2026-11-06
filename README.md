@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2579-count-total-number-of-colored-cells) |
 | [2652-sum-multiples](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2652-sum-multiples) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
 | ------- |
