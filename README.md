@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0976-largest-perimeter-triangle](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kartikeya-pratap/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
