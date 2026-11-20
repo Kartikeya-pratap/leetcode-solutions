@@ -4,7 +4,7 @@ public:
         long long power = n;
         double ans = 1;
         if (power < 0) {
-            x = 1 / x;
+            
             power = -power;
         }
         while (power > 0) {
@@ -14,6 +14,6 @@ public:
             x *= x;
             power /= 2;
         }
-        return ans;
+        return (n < 0) ? (1.0 / ans) : ans;
     }
 };
